@@ -1,0 +1,46 @@
+.navbar{
+  margin-bottom: 10px;
+}
+
+li{
+  margin-top: 15px;
+}
+
+a {
+  font-family: 'Josefin Sans', sans-serif;
+  color: maroon;
+  font-size: 140%;
+  padding: 110px;
+}
+
+p {
+  font-family: 'Josefin Sans', sans-serif;
+  color: maroon;
+  font-size: 20px;
+}
+
+.toprow {
+  background: maroon;
+}
+
+.bottomrow {
+  background: maroon;
+}
+
+a.welcomeText{
+  color: white;
+  text-align: center;
+}
+
+.btn:hover {
+    background-color: white;
+    color: maroon;
+}
+
+.btn-primary {
+  background-color: maroon;
+  border-color: maroon;
+
+}
+
+.pagination-centered{text-align:center;}
